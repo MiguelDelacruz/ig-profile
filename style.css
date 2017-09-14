@@ -1,0 +1,34 @@
+.container {
+  width: 1080px;
+  align-content: center;
+  background-color: white;
+  border-style: solid 3px #DDDDDD;
+  display: 
+}
+
+#top-bar {
+  height: 145px;
+  background-image:
+}
+ #follower-count {
+  height: 355px
+  background-image:;
+ }
+
+#profile-picture {
+  height: 255px;
+  width: 255px;
+  margin-top: ;
+  margin-left:;
+}
+
+#photo-bar {
+  height: 140px
+  background-image: ;
+}
+
+#bottom-bar {
+  height: 135px;
+  background-image: ;
+
+}
