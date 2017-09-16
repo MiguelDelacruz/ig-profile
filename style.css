@@ -1,3 +1,6 @@
+body {
+  align-self: center;
+}
 .container {
   width: 1080px;
   align-content: center;
@@ -8,27 +11,42 @@
 
 #top-bar {
   height: 145px;
-  background-image:
+  background-image: url(images/top-bar.png);
 }
  #follower-count {
-  height: 355px
-  background-image:;
+  height: 355px ;
+  background-image: url(images/follower-count.png);
  }
 
 #profile-picture {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
   height: 255px;
   width: 255px;
-  margin-top: ;
-  margin-left:;
+  margin-top: 53px;
+  margin-left: 58px;
 }
 
 #photo-bar {
-  height: 140px
-  background-image: ;
+  height: 140px;
+  background-image: url(images/photo-bar.png); 
 }
 
 #bottom-bar {
   height: 135px;
-  background-image: ;
+  background-image:url(images/bottom-bar.png); 
 
 }
+
+.ig-img {
+  color: darkblue;
+  width: 32%;
+  display: inline-block;
+  height: 300px;
+}
+ #username {
+  text-align: center;
+ }
